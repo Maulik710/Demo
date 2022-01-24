@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002233086773",
+    "project_id": "codingtest-ff9ea",
+    "storage_bucket": "codingtest-ff9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002233086773:android:bd0d6d6c628f303733027c",
+        "android_client_info": {
+          "package_name": "com.codingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002233086773-u13u3htvasn8435mn4n70sje1srnu8t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGggUY3eAFYwuh-qigidW_u9KnYxtZqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002233086773-u13u3htvasn8435mn4n70sje1srnu8t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
